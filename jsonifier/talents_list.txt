@@ -1,0 +1,553 @@
+Kick Off
+Steady Footing
+Time To Go
+An Ironsinger's Instinct
+Exposed Durability
+Phantom Edge
+Everchanging Aegis
+Neural Overload
+Overflowing Dam
+Perfect Flash
+Wyvern's Claw
+Aerogliding
+Aeronade
+Gale Trap
+Suffocating Impact
+Stifled Jump
+Vacuum Punch
+Apothecary
+Chain Reaction
+Chemist's Bag
+Placebo Effect
+Potion Quaffer
+Wild Alchemy
+Endurance Runner
+Scaredy Cat
+Conditioned Runner
+Approaching Singularity
+Flame Within
+Proficient Baiting
+Hook, Line, and Sinker
+Fisher's Lure
+Collapsed Lung
+Carnivore
+Grand Feast
+Sunken Predator
+Master Craftsman
+Deep Wound
+Lights Out
+Lowstride
+Unseen Threat
+Triathlete
+Authority Intimidation
+Resolve Crusher
+First Interrogation
+Second Interrogation
+Battle Tendency
+Braced Collapse
+Moving Fortress
+Perseverance
+Reinforced Armor
+All-Seeing Eye
+Berserk
+Bloodwarden's Sense
+Smell of Blood
+Bloodrender
+Adept Bloodrender
+Expert Bloodrender
+Master Bloodrender
+Crimson Fountain
+First Blood
+Hemorrhaging Blow
+Rush Hour
+Sanguine Siphon
+Sheltering Grasp
+Blood and Iron
+Brain Death
+Cold Blooded
+Electrolyte
+Malevolent Sapper
+Scorchblood
+Bruiser's Mixup
+Trained Fist
+Impairing Blow
+Brazen Blow
+Heavy Fatigue
+Rending Impact
+Defensive Reprisal
+Dancing Guard
+Down to your Level
+Knuckle Guard
+Swift Rebound
+Evasive Expert
+Risky Moves
+Ghost
+Champion's Regalia
+Defiance
+Underdog
+Charismatic Cast
+Chaotic Charm
+Lasting Charisma
+Tough Love
+Dazing Finisher
+Christmas Miracle
+Freezing Wight
+Destructive Recovery
+Heavy Hitter
+Unstoppable Force
+Lord's Tithe
+Grand Support
+Pressure Detonation
+Finishing Touch
+Knife's Journey
+Decisive Blow
+Successive Throw
+Chilling Flourish
+Spike Traps
+Condensation Drip
+Cool Head
+Fragile Freeze
+Cryostasis
+Preceding Chill
+Blood Thirsty
+In a Hurry
+Muffled Screams
+Blighted Song
+Dark God
+Dark Replenishment
+Dark Synergy
+Shadow Overflow
+Dark Hours
+Dark Rift
+Overwhelming Drain
+Absolute Radiance
+Protagonist Syndrome
+Luminous Flash
+Blackhole
+Energy Siphon
+Spell Shout
+The Sound from Below
+Frozen Web
+Concussion
+Concussive Force
+Precise Swing
+Spine Cutter
+Steady Nerves
+Strong Hold
+Strong Stern
+Tap Dancer
+Going Nowhere
+Concussive Flash
+Ether Overdrive
+Cornered Fool
+Give and Take
+Off Your Game
+Robber Baron
+Charged Return
+Ether Absorption
+Ether Blade
+Ether Conduit
+Eureka
+Mantra Permanence
+Nullifying Clarity
+Meteor Impact
+Phoenix Impact
+Fang and Coil
+Fishman
+Dancing Steps
+Graceful Steps
+The Final Act
+Cauterized Wounds
+Warding Radiance
+Flamewalker
+Hell's Partisan
+Flamecharmer
+Adept Flamecharmer
+Expert Flamecharmer
+Master Flamecharmer
+Azure Flames
+Produce Spark
+Unyielding Inferno
+Temperature Shock
+Exoskeleton
+To the Finish
+Glacial Finish
+Glacial Mobility
+Frostdrawer
+Adept Frostdrawer
+Expert Frostdrawer
+Master Frostdrawer
+Cold Front
+Glacial Ice
+Fulgurite Formation
+Glacial Coasting
+Orbital Ice
+Frozen Legs
+Tempest Wind
+Legion Kata
+Galebreather
+Adept Galebreather
+Expert Galebreather
+Master Galebreather
+After Cut
+Breathing Impact
+Inhale
+Neuroplasticity
+Glass Path: Crystallization
+Crystal Shrapnel
+Reclaimed Glass
+Fortitude Unbounded
+Armor Piercing
+Bulletproof
+Hip Shooter
+Quick Draw
+True Ether Bullets
+Brain Rattler
+Dispatch
+Hammerfall
+Fan the Flames
+All the Dead Gods
+Heretic's Sutra
+Brick Wall
+Mythic Stability
+Not a Scratch
+Peripheral Vision
+Bottom Freeze
+Cryonis
+Frost Buster
+Frostbite
+Frozen Pin-Cushion
+Saint Jay
+Unyielding Frost
+Agitating Spark
+Immolation
+Phoenix Flames
+Corpse Explosion
+Pleeksty's Faith
+Pleeksty's Will
+Simmerbloom
+Chitin
+Deepfolk
+Feathered Glider
+Loyalty
+Mark of Jurik
+Mark of Ku
+Mark of Nemit
+Maudet
+Molt
+Mothwing Dust
+Navae's Guidance
+Nightchild
+Seaborne
+Teachings of the Edenkite
+Versatile
+Ironsinger
+Adept Ironsinger
+Expert Ironsinger
+Master Ironsinger
+Alloyblood
+Heavy Shoulders
+Ironclad Punishment
+Laced Traps
+Metal Shackles
+Oh The Irony
+Piercing Metal
+Thornmail
+Willpower Unbounded
+Grand Skewer
+Decisive Winds
+Rush of Ancients
+Stratos Step
+Jetstream Pursuit
+Acceleration Points
+Jus Karita
+Justicar's Prowess
+Justicar's Renewal
+Swiftkick Prodigy
+Flying Swiftkick
+Kickstart
+Blade's Edge
+Defensive Sweep
+Driving Impact
+Lancer's Impale
+Hoplite
+Eruption Path: Lava Serpent
+Empowered Eruption
+Flash Point
+Molten Defence
+The Floor is Lava
+Callout
+Spotter
+Observation
+Safety Dance
+Air Pressure
+Cyclone Blade
+Pressure Break
+Wind Step
+Savior
+Scorched Peak
+Comeback Kid
+Defiant until the End
+Last Resort
+The Eleventh Hour
+Anxious Guard
+Old Habits Die Hard
+Thresher Claws
+Thresher Scales
+Survival Kit
+Impervious Slumber
+Breathing Exercise
+Conquer your Fears
+Disbelief
+Art of the Deal
+Intuitive Repairs
+Metal Absorption
+Metal Eater
+Metal Thief
+Polished Armor
+Chain of Perfection
+Lootskipper
+Already Dead
+Withering Soul
+Lose Your Mind
+Piercing Will
+Shared Misery
+Charisma Unbounded
+Murmur: Ardour
+Ardour Scream
+Murmur: Rhythm
+Murmur: Tacet
+Armor Conserver
+Lightweight
+Padded Armor
+Steel Scales
+Captain Etrea
+Fists of Fortitude
+Way of Navae
+Duelist's Lunge
+Frenzied Dance
+Pressure Skewer
+Fast Blade
+Lightspeed Reflexes
+Speed Emission
+All Knowing
+Intelligence Unbounded
+Successive Prediction
+Twelve Steps Ahead
+Strength Unbounded
+Lock n Load
+Rapid Fire
+Rapid Reload
+Sleight of Hands
+Ultrakill
+Cult of Personality
+Pardon Me
+Excavator
+Harvester
+Celebrity
+Under The Radar
+You'll Need To Get Past Me
+Volcanic Glass
+Hungry Flames
+Blood Bag
+Blood Transfusion
+Just a Taste
+Open Wound
+Bulldozer
+Broken Ankles
+Piercing Blow
+Shield Breaker
+Unwavering Resolve
+Million Ton Piercer
+Jolting Current
+Conductor's Cable
+Rending Needle: Conductor
+Rending Needle: Impaler
+Rending Needle: Jailer
+Family Recipe
+Incendiary Formula
+Sulphur Surprise
+Hot Potato
+Explosive Efficiency
+Pocket Bombs
+Will o' Wisp
+Light Weapons Unbounded
+Medium Weapons Unbounded
+Heavy Weapons Unbounded
+Dark Receiver
+Blood Bank
+Donation Drive
+Sharing is Caring
+Windwaker
+Dirty Boxing
+Pocket Sand
+Gilded Path: Scrapsinger
+Artisan's Blade
+Masterwork
+Refine and Reuse
+Songs Unforged
+Reshape and Remold
+Dragon's Song
+Jumpstart
+Raging Static
+Gruesome Harvest
+Hemolysis
+Hemolytic Transfusion
+Juicy Snack
+Panacea
+Tainted Ground
+Vasculitis
+Shadowcast Unbounded
+Shadowcaster
+Adept Shadowcaster
+Expert Shadowcaster
+Master Shadowcaster
+Blossoming Darkness
+Fear
+Lasting Sorrow
+Shadow Travel
+Sightless Still
+Singularity
+Knight's Rally
+Turtle Shell
+Emergency Repairs
+Spare Nails
+Silencer's Blade
+A World Without Song
+Friends in High Places
+Golden Tongue
+Snake Oil
+Unnecessary Theatrics
+Bloodiron Spirit
+Chime of Conflict
+Haunted Path: Specter
+Apparitions
+Phantom Step
+Vanishing Wraith
+Possession
+Heartwing Beat
+Static Link
+Jumper Cables
+Link Conduction
+Static Ace
+Static Allure
+Storm Link
+Grasp on Reality
+Magical Resolve
+Unfazed
+Voltaic Conductor
+Iron Gut
+Termite
+Winter's Protection
+Dustlunge
+None Left Behind
+Seamaster's Guile
+Foolish Outburst
+Hard Read
+Punishing Blow
+Target Switch
+Water off a Duck's Back
+Controlled Combustion
+Artisan Chef
+Master Chef
+Umami
+Explosive Finish
+Flaming Flourish
+Emperor Flame
+Mirage Clone
+Last Second Negotiation
+Cap Artist
+Pickpocket
+Master Thief
+Another Man's Trash
+Discharge
+Jolt Cast
+Rain of Static
+Gathering Electricity
+Overcharge
+Static Blade
+Thundercaller
+Adept Thundercaller
+Expert Thundercaller
+Master Thundercaller
+Discovery Of Fire
+Shocking Finish
+Static Fakeout
+Static Flash Clone
+Static Withdraw
+Stratoshock
+Manipulator
+Narcissist
+Sow and Mend
+Cyclical Exsanguination
+Embolism
+Hypovolemic Focus
+Cheap Shot
+Crippling Comeuppance
+Down Comes the Claw
+Maiming Claws
+Pursuit
+Face Cutter
+Turning of the Wheel
+Wraith Path: Twisted Puppets
+Burning Puppets
+Burning Sacrifice
+Explosive Rage
+Moths to a Flame
+Audacity
+No Survivors
+Rule Through Fear
+Denial Repulse
+Undying Flame
+Surge Path: Unstable Capacitor
+Battery Sapper
+Catalytic Strike
+Closed Circuit
+Fried Circuits
+Human Battery
+Flashboil
+Boiling Point
+Action Surge
+Air Counter
+Bear Trap
+Blade Dancer
+Speed Demon
+Spinning Swordsman
+Cheap Trick
+Encore
+Propagandist
+Vow of Mastery
+Command: Live
+Command: Summon
+Chronostasis
+Critical Attack
+Engage
+Conditioned Swimmer
+Scuba Drowner
+Brutal Momentum
+Matador
+Mercy Kill
+Showstopper
+Switchblade
+Warrior's Swing
+Haunted Gale
+Agility Unbounded
+Berserker
+Blinded
+Coldseep Reactor
+Diver's Resilience
+Full Reset
+Gourmand
+Grotesque Resilience
+Heavy Haul
+Martyr
+Pack Mule
+Polite Awakening
+Ready or Not
+Replenishing Knockout
+Return to the Dark Ages
+Star Duster
+Surestep
+Temple Guard
+Wormwarder
+Fold

@@ -1,0 +1,10 @@
+Conditioned Runner | All Alley Cat Talents
+Reinforced Armor | All common Bastion Talents
+Ghost | All Butterfly Talents
+Dazing Finisher | All Charm Caster Talents
+Dustlunge | All Assassin Talents
+Last Second Negotiation | all Silvertongue Talents
+Another Man's Trash | All Thief Talents
+
+remove:
+	Christmas Miracle

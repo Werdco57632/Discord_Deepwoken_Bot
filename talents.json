@@ -1,0 +1,2149 @@
+{
+    "Kick Off": {
+        "category": "Common",
+        "description": "You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Steady Footing": {
+        "category": "Common",
+        "description": "You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 10,
+            "Strength": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Time To Go": {
+        "category": "Common",
+        "description": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Everchanging Aegis": {
+        "category": "Rare",
+        "description": "You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)",
+        "prerequisites": {
+            "Intelligence": 25
+        },
+        "requires": [],
+        "exclusive": [
+            "Return to the Dark Ages"
+        ],
+        "weapon": ""
+    },
+    "Neural Overload": {
+        "category": "Advanced",
+        "description": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
+        "prerequisites": {
+            "Intelligence": 85
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Overflowing Dam": {
+        "category": "Rare",
+        "description": "Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.",
+        "prerequisites": {
+            "Intelligence": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Perfect Flash": {
+        "category": "Rare",
+        "description": "Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.",
+        "prerequisites": {
+            "Intelligence": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Apothecary": {
+        "category": "Common",
+        "description": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown",
+        "prerequisites": {
+            "Intelligence": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Chain Reaction": {
+        "category": "Common",
+        "description": "When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.",
+        "prerequisites": {
+            "Intelligence": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Chemist's Bag": {
+        "category": "Common",
+        "description": "You no longer drop Potions on death.",
+        "prerequisites": {
+            "Intelligence": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Placebo Effect": {
+        "category": "Rare",
+        "description": "Drinking potions near allies will share the potion's effect with them.",
+        "prerequisites": {
+            "Intelligence": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Wild Alchemy": {
+        "category": "Common",
+        "description": "You have a chance to brew 2 potions instead of 1.",
+        "prerequisites": {
+            "Intelligence": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Endurance Runner": {
+        "category": "Common",
+        "description": "Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25,
+            "Fortitude": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Scaredy Cat": {
+        "category": "Common",
+        "description": "When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Conditioned Runner": {
+        "category": "Advanced",
+        "description": "You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)",
+        "prerequisites": {},
+        "requires": [
+            "Endurance Runner",
+            "Scaredy Cat"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Approaching Singularity": {
+        "category": "Common",
+        "description": "You now gain +1% Mantra PEN for every 10 point of Intelligence.",
+        "prerequisites": {
+            "Intelligence": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Collapsed Lung": {
+        "category": "Advanced",
+        "description": "Block breaking an opponent closes off their ability to Vent for 3s.",
+        "prerequisites": {
+            "Strength": 100
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Carnivore": {
+        "category": "Rare",
+        "description": "In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.",
+        "prerequisites": {
+            "Strength": 5,
+            "Willpower": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Grand Feast": {
+        "category": "Common",
+        "description": "Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)",
+        "prerequisites": {},
+        "requires": [
+            "Carnivore"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Sunken Predator": {
+        "category": "Common",
+        "description": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)",
+        "prerequisites": {
+            "Power": 11
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Master Craftsman": {
+        "category": "Common",
+        "description": "Your skills alone substitute the need for a Craft Station. (+5 Health)",
+        "prerequisites": {
+            "Intelligence": 45
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Deep Wound": {
+        "category": "Common",
+        "description": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.",
+        "prerequisites": {
+            "Agility": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lights Out": {
+        "category": "Common",
+        "description": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 55
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lowstride": {
+        "category": "Common",
+        "description": "Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Unseen Threat": {
+        "category": "Common",
+        "description": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.",
+        "prerequisites": {
+            "Agility": 60
+        },
+        "requires": [
+            "Deep Wound"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Triathlete": {
+        "category": "Common",
+        "description": "You swim faster in water. (+2 Passive Agility)",
+        "prerequisites": {
+            "Power": 1
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Battle Tendency": {
+        "category": "Common",
+        "description": "You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)",
+        "prerequisites": {
+            "Fortitude": 15,
+            "Willpower": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Braced Collapse": {
+        "category": "Common",
+        "description": "After being block broken, the next attack to hit you deals reduced damage.",
+        "prerequisites": {
+            "Fortitude": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Moving Fortress": {
+        "category": "Common",
+        "description": "Blocking no longer slows you down as much. (+2 Posture)",
+        "prerequisites": {
+            "Fortitude": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Perseverance": {
+        "category": "Common",
+        "description": "When you're knocked down, you get back up again more quickly. (+5 Sanity)",
+        "prerequisites": {
+            "Fortitude": 30,
+            "Willpower": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Reinforced Armor": {
+        "category": "Advanced",
+        "description": "Incoming PEN is reduced by 30%. (+5 Health)",
+        "prerequisites": {
+            "Fortitude": 90
+        },
+        "requires": [
+            "Battle Tendency",
+            "Braced Collapse",
+            "Moving Fortress",
+            "Perseverance"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Berserk": {
+        "category": "Common",
+        "description": "One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.",
+        "prerequisites": {
+            "Strength": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Bruiser's Mixup": {
+        "category": "Common",
+        "description": "Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.",
+        "prerequisites": {},
+        "requires": [
+            "Trained Fist"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Defensive Reprisal": {
+        "category": "Common",
+        "description": "Being flourished grants you 10% posture resistance for 5s.",
+        "prerequisites": {
+            "Fortitude": 65
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Dancing Guard": {
+        "category": "Common",
+        "description": "Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s.",
+        "prerequisites": {
+            "Fortitude": 55
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Down to your Level": {
+        "category": "Common",
+        "description": "While you have a speed debuff, your M1s slow your enemies for 2s.",
+        "prerequisites": {
+            "Fortitude": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Knuckle Guard": {
+        "category": "Common",
+        "description": "Hitting Dazed enemies grants you 10% posture resistance for 5s.",
+        "prerequisites": {
+            "Fortitude": 55,
+            "Strength": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Swift Rebound": {
+        "category": "Common",
+        "description": "Move faster after successfully dodging an attack. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Evasive Expert": {
+        "category": "Rare",
+        "description": "Your speed boost granted from dodging is increased. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 15
+        },
+        "requires": [
+            "Swift Rebound"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Risky Moves": {
+        "category": "Rare",
+        "description": "When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Ghost": {
+        "category": "Advanced",
+        "description": "Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)",
+        "prerequisites": {
+            "Agility": 40
+        },
+        "requires": [
+            "Swift Rebound",
+            "Evasive Expert",
+            "Risky Moves"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Champion's Regalia": {
+        "category": "Legendary",
+        "description": "Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)",
+        "prerequisites": {
+            "Strength": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Defiance": {
+        "category": "Rare",
+        "description": "Negative status effects are half as effective when you are below 35% HP.",
+        "prerequisites": {
+            "Willpower": 70
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Underdog": {
+        "category": "Common",
+        "description": "You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.",
+        "prerequisites": {
+            "Willpower": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Charismatic Cast": {
+        "category": "Common",
+        "description": "Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.",
+        "prerequisites": {
+            "Charisma": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Chaotic Charm": {
+        "category": "Common",
+        "description": "When attacked at low health enemies deal less damage to you and more to anyone else.",
+        "prerequisites": {
+            "Charisma": 55
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lasting Charisma": {
+        "category": "Common",
+        "description": "Enemies charmed by your mantras are charmed longer.",
+        "prerequisites": {
+            "Charisma": 55
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Tough Love": {
+        "category": "Common",
+        "description": "Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.",
+        "prerequisites": {
+            "Charisma": 25
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Dazing Finisher": {
+        "category": "Advanced",
+        "description": "Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.",
+        "prerequisites": {
+            "Charisma": 1
+        },
+        "requires": [
+            "Charismatic Cast",
+            "Chaotic Charm",
+            "Lasting Charisma",
+            "Tough Love"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Destructive Recovery": {
+        "category": "Rare",
+        "description": "[Greatsword] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load)",
+        "prerequisites": {
+            "Strength": 25,
+            "Heavy Weapon": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Greatsword"
+    },
+    "Heavy Hitter": {
+        "category": "Common",
+        "description": "[Heavy Weapons] Your posture damage is increased by 10%.",
+        "prerequisites": {
+            "Heavy Weapon": 25,
+            "Strength": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Unstoppable Force": {
+        "category": "Rare",
+        "description": "[Greathammer] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)",
+        "prerequisites": {
+            "Strength": 25,
+            "Heavy Weapon": 40
+        },
+        "requires": [
+            "Unwavering Resolve"
+        ],
+        "exclusive": [],
+        "weapon": "Greathammer"
+    },
+    "Finishing Touch": {
+        "category": "Common",
+        "description": "[Dagger] Instantly execute enemies finished with the critical attack of your dagger.",
+        "prerequisites": {
+            "Agility": 50,
+            "Light Weapon": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Dagger"
+    },
+    "Knife's Journey": {
+        "category": "Rare",
+        "description": "[Daggers] Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage",
+        "prerequisites": {
+            "Light Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Decisive Blow": {
+        "category": "Common",
+        "description": "Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage",
+        "prerequisites": {},
+        "requires": [
+            "Knife's Journey"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Successive Throw": {
+        "category": "Common",
+        "description": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards",
+        "prerequisites": {
+            "Light Weapon": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Blood Thirsty": {
+        "category": "Common",
+        "description": "Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 45
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "In a Hurry": {
+        "category": "Common",
+        "description": "You grip faster with a movement speed boost.",
+        "prerequisites": {
+            "Agility": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Muffled Screams": {
+        "category": "Common",
+        "description": "You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Concussion": {
+        "category": "Rare",
+        "description": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+8 Carry Load)",
+        "prerequisites": {
+            "Strength": 20,
+            "Fortitude": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Concussive Force": {
+        "category": "Common",
+        "description": "Enemies you knocked remain downed longer than usual. (+9 Carry Load)",
+        "prerequisites": {
+            "Strength": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Precise Swing": {
+        "category": "Common",
+        "description": "After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)",
+        "prerequisites": {
+            "Strength": 25,
+            "Agility": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Spine Cutter": {
+        "category": "Rare",
+        "description": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)",
+        "prerequisites": {
+            "Strength": 20,
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Strong Hold": {
+        "category": "Common",
+        "description": "When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)",
+        "prerequisites": {
+            "Strength": 30,
+            "Medium Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Strong Stern": {
+        "category": "Rare",
+        "description": "The duration you are dazed from wall bangs is cut in half (+9 Carry Load)",
+        "prerequisites": {
+            "Strength": 15,
+            "Fortitude": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Tap Dancer": {
+        "category": "Rare",
+        "description": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Going Nowhere": {
+        "category": "Rare",
+        "description": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)",
+        "prerequisites": {
+            "Strength": 25,
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Give and Take": {
+        "category": "Common",
+        "description": "Deal less damage to comrades and receive less damage from comrades.",
+        "prerequisites": {
+            "Charisma": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Robber Baron": {
+        "category": "Common",
+        "description": "You hold onto more items when defeated.",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Charged Return": {
+        "category": "Common",
+        "description": "Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage.",
+        "prerequisites": {
+            "Willpower": 20,
+            "Strength": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Ether Absorption": {
+        "category": "Common",
+        "description": "Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)",
+        "prerequisites": {
+            "Intelligence": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Ether Blade": {
+        "category": "Common",
+        "description": "Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.",
+        "prerequisites": {
+            "Agility": 20,
+            "Intelligence": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Ether Conduit": {
+        "category": "Common",
+        "description": "Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)",
+        "prerequisites": {
+            "Intelligence": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Eureka": {
+        "category": "Rare",
+        "description": "Receive ether back on every successful perfect cast. (+7 Carry Load)",
+        "prerequisites": {
+            "Intelligence": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Mantra Permanence": {
+        "category": "Common",
+        "description": "Knocking an enemy with a mantra refunds the cost of the mantra.",
+        "prerequisites": {
+            "Intelligence": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Nullifying Clarity": {
+        "category": "Common",
+        "description": "Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)",
+        "prerequisites": {
+            "Strength": 15,
+            "Intelligence": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Fishman": {
+        "category": "Rare",
+        "description": "You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "To the Finish": {
+        "category": "Rare",
+        "description": "You take 10% less damage when below 30% health. (+5 Health)",
+        "prerequisites": {
+            "Fortitude": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Fortitude Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
+        "prerequisites": {
+            "Fortitude": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "All the Dead Gods": {
+        "category": "Rare",
+        "description": "Your M1s now apply anti-heal for 8s. (+7 Sanity)",
+        "prerequisites": {
+            "Willpower": 65,
+            "Intelligence": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Brick Wall": {
+        "category": "Advanced",
+        "description": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)",
+        "prerequisites": {
+            "Fortitude": 100,
+            "Willpower": 100
+        },
+        "requires": [
+            "Perseverance"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Mythic Stability": {
+        "category": "Rare",
+        "description": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.",
+        "prerequisites": {
+            "Fortitude": 85
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Not a Scratch": {
+        "category": "Advanced",
+        "description": "You don't show any signs of damage. (+2 Posture)",
+        "prerequisites": {
+            "Fortitude": 20,
+            "Willpower": 100
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Willpower Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your willpower to its fullest.",
+        "prerequisites": {
+            "Willpower": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Justicar's Prowess": {
+        "category": "Common",
+        "description": "Jus Karita +30% posture damage against other fist styles.",
+        "prerequisites": {},
+        "requires": [
+            "Jus Karita"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Justicar's Renewal": {
+        "category": "Common",
+        "description": "Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).",
+        "prerequisites": {},
+        "requires": [
+            "Jus Karita"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Swiftkick Prodigy": {
+        "category": "Common",
+        "description": "Hitting successive basic attacks with Jus Karita will give a temporary speed buff.",
+        "prerequisites": {},
+        "requires": [
+            "Jus Karita"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Flying Swiftkick": {
+        "category": "Common",
+        "description": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost.",
+        "prerequisites": {},
+        "requires": [
+            "Jus Karita",
+            "Swiftkick Prodigy"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Blade's Edge": {
+        "category": "Common",
+        "description": "Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)",
+        "prerequisites": {
+            "Medium Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Spear"
+    },
+    "Defensive Sweep": {
+        "category": "Common",
+        "description": "Posture breaking an opponent grants you +50% PEN for 3 seconds.",
+        "prerequisites": {
+            "Medium Weapon": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Spear"
+    },
+    "Driving Impact": {
+        "category": "Common",
+        "description": "The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
+        "prerequisites": {
+            "Medium Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Spear"
+    },
+    "Lancer's Impale": {
+        "category": "Common",
+        "description": "Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)",
+        "prerequisites": {
+            "Medium Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Spear"
+    },
+    "Hoplite": {
+        "category": "Common",
+        "description": "Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)",
+        "prerequisites": {
+            "Fortitude": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Spear"
+    },
+    "Callout": {
+        "category": "Common",
+        "description": "You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.",
+        "prerequisites": {
+            "Charisma": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Spotter": {
+        "category": "Common",
+        "description": "Marking enemies while in Rhythm will now indicate their health status to your allies.",
+        "prerequisites": {
+            "Charisma": 40
+        },
+        "requires": [
+            "Murmur: Rhythm",
+            "Callout"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Observation": {
+        "category": "Rare",
+        "description": "Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [
+            "Risky Moves"
+        ],
+        "weapon": ""
+    },
+    "Safety Dance": {
+        "category": "Rare",
+        "description": "Your base dodge frames are increased by 0.05s. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [
+            "Risky Moves"
+        ],
+        "weapon": ""
+    },
+    "Savior": {
+        "category": "Common",
+        "description": "After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)",
+        "prerequisites": {
+            "Willpower": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Comeback Kid": {
+        "category": "Common",
+        "description": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+        "prerequisites": {
+            "Power": 8
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Defiant until the End": {
+        "category": "Common",
+        "description": "Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)",
+        "prerequisites": {
+            "Willpower": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Last Resort": {
+        "category": "Common",
+        "description": "Deal +10% more damage when your health is below 25%. (+10 Sanity)",
+        "prerequisites": {
+            "Willpower": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "The Eleventh Hour": {
+        "category": "Common",
+        "description": "When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)",
+        "prerequisites": {
+            "Willpower": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Anxious Guard": {
+        "category": "Common",
+        "description": "Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).",
+        "prerequisites": {
+            "Power": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Old Habits Die Hard": {
+        "category": "Common",
+        "description": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 25% less posture damage. (+5 Health)",
+        "prerequisites": {
+            "Willpower": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Thresher Claws": {
+        "category": "Rare",
+        "description": "All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.",
+        "prerequisites": {
+            "Power": 13
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Thresher Scales": {
+        "category": "Common",
+        "description": "You regenerate your armor at campfires. (+5 Health)",
+        "prerequisites": {
+            "Power": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Impervious Slumber": {
+        "category": "Rare",
+        "description": "Getting hit while knocked no longer resets your time knocked.",
+        "prerequisites": {
+            "Fortitude": 35
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Breathing Exercise": {
+        "category": "Common",
+        "description": "Your sanity recovers more quickly once out of terrifying situations. (+5 Health)",
+        "prerequisites": {
+            "Willpower": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Conquer your Fears": {
+        "category": "Common",
+        "description": "Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)",
+        "prerequisites": {
+            "Willpower": 10
+        },
+        "requires": [
+            "Breathing Exercise"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Disbelief": {
+        "category": "Common",
+        "description": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)",
+        "prerequisites": {
+            "Willpower": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lootskipper": {
+        "category": "Rare",
+        "description": "Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lose Your Mind": {
+        "category": "Rare",
+        "description": "Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)",
+        "prerequisites": {
+            "Fortitude": 30,
+            "Strength": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Piercing Will": {
+        "category": "Rare",
+        "description": "When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.",
+        "prerequisites": {
+            "Willpower": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Shared Misery": {
+        "category": "Common",
+        "description": "Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)",
+        "prerequisites": {
+            "Willpower": 85
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Charisma Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your charisma to its fullest.",
+        "prerequisites": {
+            "Charisma": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Armor Conserver": {
+        "category": "Common",
+        "description": "You lose 15% less armor when hit.",
+        "prerequisites": {
+            "Power": 8
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lightweight": {
+        "category": "Common",
+        "description": "Move faster when your armor runs out of durability. (+3 Passive Agility)",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Padded Armor": {
+        "category": "Common",
+        "description": "While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)",
+        "prerequisites": {
+            "Power": 8
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Steel Scales": {
+        "category": "Common",
+        "description": "You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)",
+        "prerequisites": {
+            "Power": 8
+        },
+        "requires": [
+            "Padded Armor"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Fists of Fortitude": {
+        "category": "Rare",
+        "description": "[Fists] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)",
+        "prerequisites": {
+            "Fortitude": 20,
+            "Light Weapon": 20
+        },
+        "requires": [],
+        "exclusive": [
+            "Orbital Ice"
+        ],
+        "weapon": "Fists"
+    },
+    "Duelist's Lunge": {
+        "category": "Common",
+        "description": "[Rapier] running M1's deal increased posture damage. Upon landing your Critical, your next running M1 will have increased range.",
+        "prerequisites": {
+            "Light Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Rapier"
+    },
+    "Frenzied Dance": {
+        "category": "Common",
+        "description": "[Rapier] When your posture is about to collapse, you deal greater chip and posture damage.",
+        "prerequisites": {
+            "Light Weapon": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Rapier"
+    },
+    "Pressure Skewer": {
+        "category": "Common",
+        "description": "[Rapier] Flourishing an enemy causes your M1's to deal additional blood loss until you take damage.",
+        "prerequisites": {
+            "Light Weapon": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Rapier"
+    },
+    "Fast Blade": {
+        "category": "Common",
+        "description": "Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Lightspeed Reflexes": {
+        "category": "Rare",
+        "description": "Feinting gives a very brief auto-parry window. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20,
+            "Intelligence": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Speed Emission": {
+        "category": "Common",
+        "description": "Gain a slight speed boost after landing a vent.",
+        "prerequisites": {
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Intelligence Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your Intelligence to its fullest.",
+        "prerequisites": {
+            "Intelligence": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Strength Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your Strength to its fullest.",
+        "prerequisites": {
+            "Strength": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Cult of Personality": {
+        "category": "Common",
+        "description": "You gain +3% PEN for each person Charmed, capping at +15% PEN.",
+        "prerequisites": {
+            "Charisma": 90
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Pardon Me": {
+        "category": "Common",
+        "description": "Crimes you commit in allied territories are often ignored. Who's asking?",
+        "prerequisites": {
+            "Charisma": 85
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Celebrity": {
+        "category": "Common",
+        "description": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.",
+        "prerequisites": {
+            "Charisma": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Under The Radar": {
+        "category": "Common",
+        "description": "The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)",
+        "prerequisites": {
+            "Charisma": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "You'll Need To Get Past Me": {
+        "category": "Common",
+        "description": "When you're attacked, one of your many allies will leap into action to protect their boss.",
+        "prerequisites": {
+            "Charisma": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Bulldozer": {
+        "category": "Rare",
+        "description": "Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.",
+        "prerequisites": {
+            "Strength": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Broken Ankles": {
+        "category": "Common",
+        "description": "Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD",
+        "prerequisites": {
+            "Strength": 70
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Piercing Blow": {
+        "category": "Rare",
+        "description": "Attacks that break an opponent's block ignore their Armor resistances.",
+        "prerequisites": {
+            "Strength": 80
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Shield Breaker": {
+        "category": "Common",
+        "description": "Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)",
+        "prerequisites": {
+            "Strength": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Unwavering Resolve": {
+        "category": "Common",
+        "description": "Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)",
+        "prerequisites": {
+            "Strength": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Million Ton Piercer": {
+        "category": "Advanced",
+        "description": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
+        "prerequisites": {
+            "Strength": 90
+        },
+        "requires": [],
+        "exclusive": [
+            "Ether Overdrive"
+        ],
+        "weapon": ""
+    },
+    "Incendiary Formula": {
+        "category": "Common",
+        "description": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal increased damage to burning enemies",
+        "prerequisites": {},
+        "requires": [
+            "Family Recipe"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Sulphur Surprise": {
+        "category": "Common",
+        "description": "Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.",
+        "prerequisites": {},
+        "requires": [
+            "Incendiary Formula"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Hot Potato": {
+        "category": "Common",
+        "description": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)",
+        "prerequisites": {},
+        "requires": [
+            "Family Recipe"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Explosive Efficiency": {
+        "category": "Common",
+        "description": "Crafting a bomb will yield two bombs. Chance to make three.",
+        "prerequisites": {},
+        "requires": [
+            "Hot Potato"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Pocket Bombs": {
+        "category": "Common",
+        "description": "You have a chance to activate a bomb in your inventory when damaged. (+5 Health)",
+        "prerequisites": {},
+        "requires": [
+            "Family Recipe"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Dirty Boxing": {
+        "category": "Rare",
+        "description": "Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Fists"
+    },
+    "Pocket Sand": {
+        "category": "Common",
+        "description": "[Fist] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)",
+        "prerequisites": {
+            "Light Weapon": 35,
+            "Strength": 20
+        },
+        "requires": [
+            "Trained Fist"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Dragon's Song": {
+        "category": "Common",
+        "description": "Using a mantra after an uppercut grants ether.",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Knight's Rally": {
+        "category": "Common",
+        "description": "When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)",
+        "prerequisites": {
+            "Fortitude": 30,
+            "Willpower": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Shield"
+    },
+    "Turtle Shell": {
+        "category": "Common",
+        "description": "If your shield is on your back, take reduced backstab damage and negate Spine Cutter.",
+        "prerequisites": {
+            "Fortitude": 50
+        },
+        "requires": [
+            "Knight's Rally"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Friends in High Places": {
+        "category": "Common",
+        "description": "Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!",
+        "prerequisites": {
+            "Charisma": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Golden Tongue": {
+        "category": "Rare",
+        "description": "Typing gives a random buff to you and those around you. (60 second cooldown)",
+        "prerequisites": {
+            "Charisma": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Snake Oil": {
+        "category": "Common",
+        "description": "Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent  description, I can't stop you.",
+        "prerequisites": {
+            "Charisma": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Unnecessary Theatrics": {
+        "category": "Common",
+        "description": "Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.",
+        "prerequisites": {
+            "Charisma": 75
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Bloodiron Spirit": {
+        "category": "Rare",
+        "description": "You regain some Armor upon killing enemies. (+5 Health)",
+        "prerequisites": {},
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Grasp on Reality": {
+        "category": "Common",
+        "description": "Damage taken from insanity is reduced.",
+        "prerequisites": {
+            "Fortitude": 25,
+            "Willpower": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Magical Resolve": {
+        "category": "Common",
+        "description": "Being hit increases Ether regen for a short duration. (+7 Sanity)",
+        "prerequisites": {
+            "Willpower": 40
+        },
+        "requires": [
+            "Battle Tendency"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Unfazed": {
+        "category": "Common",
+        "description": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
+        "prerequisites": {
+            "Willpower": 50,
+            "Fortitude": 50
+        },
+        "requires": [
+            "Grasp on Reality"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Termite": {
+        "category": "Common",
+        "description": "You can eat things most would consider inedible. (+3 Health)",
+        "prerequisites": {
+            "Fortitude": 20,
+            "Willpower": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Dustlunge": {
+        "category": "Advanced",
+        "description": "You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 90
+        },
+        "requires": [
+            "Deep Wound",
+            "Lights Out",
+            "Lowstride",
+            "Unseen Threat"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "None Left Behind": {
+        "category": "Common",
+        "description": "You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 100
+        },
+        "requires": [
+            "Dustlunge"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Foolish Outburst": {
+        "category": "Common",
+        "description": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.",
+        "prerequisites": {
+            "Intelligence": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Hard Read": {
+        "category": "Common",
+        "description": "Hitting your opponent during a feint will cause them to be dazed.",
+        "prerequisites": {
+            "Intelligence": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Punishing Blow": {
+        "category": "Rare",
+        "description": "You now daze swinging opponents when hitting them with an M1 with a heavy weapon.",
+        "prerequisites": {
+            "Heavy Weapon": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Target Switch": {
+        "category": "Common",
+        "description": "Parrying an opponent then hitting someone else makes your next mantra free.",
+        "prerequisites": {
+            "Intelligence": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Last Second Negotiation": {
+        "category": "Common",
+        "description": "Most enemies will hesitate a moment longer to execute you.",
+        "prerequisites": {
+            "Charisma": 55
+        },
+        "requires": [
+            "Friends in High Places",
+            "Golden Tongue",
+            "Snake Oil"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Cap Artist": {
+        "category": "Common",
+        "description": "Pressing R while crouching allows you to fake being dead. (+2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25,
+            "Charisma": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Pickpocket": {
+        "category": "Common",
+        "description": "Gain the ability to pickpocket by pressing N. (+2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 5,
+            "Charisma": 10
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Master Thief": {
+        "category": "Common",
+        "description": "Gain more notes when mugging a player.",
+        "prerequisites": {
+            "Charisma": 25
+        },
+        "requires": [
+            "Pickpocket"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Another Man's Trash": {
+        "category": "Advanced",
+        "description": "Take unequipped equipment when mugging a player. (+2 Passive Agility)",
+        "prerequisites": {
+            "Agility": 10,
+            "Charisma": 35
+        },
+        "requires": [
+            "Cap Artist",
+            "Cap Artist",
+            "Pickpocket",
+            "Master Thief"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Manipulator": {
+        "category": "Common",
+        "description": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
+        "prerequisites": {
+            "Charisma": 60
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Narcissist": {
+        "category": "Common",
+        "description": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.",
+        "prerequisites": {
+            "Charisma": 60
+        },
+        "requires": [
+            "Charismatic Cast"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Cheap Shot": {
+        "category": "Rare",
+        "description": "Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)",
+        "prerequisites": {
+            "Agility": 65
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Down Comes the Claw": {
+        "category": "Common",
+        "description": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Maiming Claws": {
+        "category": "Common",
+        "description": "Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 100
+        },
+        "requires": [
+            "Down Comes the Claw"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Audacity": {
+        "category": "Advanced",
+        "description": "Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s). (+1 Posture)",
+        "prerequisites": {
+            "Charisma": 100,
+            "Strength": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "No Survivors": {
+        "category": "Common",
+        "description": "Your allies and yourself execute faster when affected by Overcharm.",
+        "prerequisites": {
+            "Charisma": 80,
+            "Strength": 45
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Rule Through Fear": {
+        "category": "Rare",
+        "description": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+        "prerequisites": {
+            "Charisma": 85,
+            "Strength": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Boiling Point": {
+        "category": "Common",
+        "description": "Using a fire mantra near your own steam cloud detonates it.",
+        "prerequisites": {},
+        "requires": [
+            "Flashboil"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Air Counter": {
+        "category": "Rare",
+        "description": "You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)",
+        "prerequisites": {
+            "Agility": 60
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Bear Trap": {
+        "category": "Common",
+        "description": "Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)",
+        "prerequisites": {
+            "Strength": 20,
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Blade Dancer": {
+        "category": "Common",
+        "description": "Landing an M1 removes your roll cooldown. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Speed Demon": {
+        "category": "Rare",
+        "description": "Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 25
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Spinning Swordsman": {
+        "category": "Common",
+        "description": "Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)",
+        "prerequisites": {
+            "Agility": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Vow of Mastery": {
+        "category": "Common",
+        "description": "The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. \"wanna make a vow of mastery?\"",
+        "prerequisites": {
+            "Charisma": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Command: Live": {
+        "category": "Common",
+        "description": "Once per hour, command a servant to defy all odds and obey your command - live.",
+        "prerequisites": {
+            "Charisma": 75
+        },
+        "requires": [
+            "Vow of Mastery"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Command: Summon": {
+        "category": "Advanced",
+        "description": "Command your servant to obey your summons and appear before you no matter the distance.",
+        "prerequisites": {
+            "Charisma": 80
+        },
+        "requires": [
+            "Vow of Mastery"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Chronostasis": {
+        "category": "Rare",
+        "description": "Landing an M1 or Critical Strike puts target Resonance on cooldown for a short duration. (+1 Posture)",
+        "prerequisites": {
+            "Power": 13
+        },
+        "requires": [
+            "Engage"
+        ],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Conditioned Swimmer": {
+        "category": "Common",
+        "description": "You lose less hunger and thirst while swimming. (+1 Passive Agility)",
+        "prerequisites": {
+            "Power": 1
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Scuba Drowner": {
+        "category": "Rare",
+        "description": "You won't always drown to death when downed in water. (+3 Passive Agility, +5 Health)",
+        "prerequisites": {
+            "Power": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Brutal Momentum": {
+        "category": "Common",
+        "description": "[Heavy Weapons] Successfully dodging will give your next swing hyperarmor.",
+        "prerequisites": {
+            "Heavy Weapon": 50
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": "Heavy Weapon"
+    },
+    "Matador": {
+        "category": "Common",
+        "description": "Deal +20% more damage to human enemies with hyperarmor.",
+        "prerequisites": {
+            "Strength": 20,
+            "Agility": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Showstopper": {
+        "category": "Rare",
+        "description": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.",
+        "prerequisites": {
+            "Strength": 40
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Warrior's Swing": {
+        "category": "Common",
+        "description": "[Heavy Weapons] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.",
+        "prerequisites": {
+            "Heavy Weapon": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Agility Unbounded": {
+        "category": "Common",
+        "description": "You have gained the ability to surpass your limits and train your agility to its fullest.",
+        "prerequisites": {
+            "Agility": 75
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Berserker": {
+        "category": "Common",
+        "description": "Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)",
+        "prerequisites": {
+            "Fortitude": 35,
+            "Strength": 30
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Gourmand": {
+        "category": "Common",
+        "description": "Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)",
+        "prerequisites": {
+            "Power": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Heavy Haul": {
+        "category": "Common",
+        "description": "Enemies who carry you move significantly slower.",
+        "prerequisites": {
+            "Strength": 15
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Martyr": {
+        "category": "Common",
+        "description": "Enemies gain less health and posture when knocking you.",
+        "prerequisites": {
+            "Power": 3
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Pack Mule": {
+        "category": "Common",
+        "description": "The max quantity for food you can hold is increased by 5. (+1 Carry Load)",
+        "prerequisites": {
+            "Fortitude": 5
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Polite Awakening": {
+        "category": "Common",
+        "description": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)",
+        "prerequisites": {
+            "Power": 1
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Ready or Not": {
+        "category": "Common",
+        "description": "The first attack to hit you while out of combat has its damage cut in half.",
+        "prerequisites": {
+            "Power": 1,
+            "Fortitude": 20
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Replenishing Knockout": {
+        "category": "Common",
+        "description": "You gain more health and posture from downing enemies.",
+        "prerequisites": {
+            "Power": 3
+        },
+        "requires": [],
+        "exclusive": [],
+        "weapon": ""
+    },
+    "Return to the Dark Ages": {
+        "category": "Rare",
+        "description": "Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)",
+        "prerequisites": {
+            "Power": 10
+        },
+        "requires": [],
+        "exclusive": [
+            "Everchanging Aegis"
+        ],
+        "weapon": ""
+    }
+}
